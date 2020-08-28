@@ -96,3 +96,4 @@ I'll happily merge any pull request to improve the starter. 🙂
 "# shopExample" 
 "# Pdigital" 
 "# Pdigital" 
+"# Pdigital" 
