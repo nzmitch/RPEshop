@@ -101,3 +101,4 @@ I'll happily merge any pull request to improve the starter. 🙂
 "# shop-example" 
 "# shopExample" 
 "# shopExample" 
+"# shopExample" 

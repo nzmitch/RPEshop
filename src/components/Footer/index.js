@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { useEffect } from 'react'
 
 import StoreContext from '~/context/StoreContext'
-import { Wrapper, Container, stampWrapper, stampPath, Ul, Logo, MenuLink } from './styles'
+import { Wrapper, Container, stampWrapper, stampPath, Ul, Logo, MenuLink, Gear } from './styles'
 
 const Footer = ({}) => {
         useEffect(() => {
@@ -53,9 +53,9 @@ const Footer = ({}) => {
                 </div>
 
                 <div css={stampWrapper}>
-                        <img css={Logo} style={{ width: '7em' }} src={'https://cdn.glitch.com/c995571b-8b75-4810-b967-1fb1b241a7c2%2FnotypoGlobe.png?v=1598083837005'}/>
+                        <img css={Logo} src={'https://cdn.glitch.com/c995571b-8b75-4810-b967-1fb1b241a7c2%2FnotypoGlobe.png?v=1598083837005'}/>
                     <div css={stampPath}>
-                        <img id="gear" style={{ width: '15em' }} src={'https://cdn.glitch.com/c995571b-8b75-4810-b967-1fb1b241a7c2%2Ftechculture.png?v=1598401406427'}/>
+                        <img id="gear" css={Gear} src={'https://cdn.glitch.com/c995571b-8b75-4810-b967-1fb1b241a7c2%2Ftechculture.png?v=1598401406427'}/>
                     </div>
                 </div>
             </Container>
