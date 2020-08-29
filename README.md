@@ -104,3 +104,4 @@ I'll happily merge any pull request to improve the starter. 🙂
 "# shopExample" 
 "# d" 
 "# shopExample" 
+"# notypoShopExample" 
