@@ -105,3 +105,5 @@ I'll happily merge any pull request to improve the starter. 🙂
 "# d" 
 "# shopExample" 
 "# notypoShopExample" 
+"# notypoShopExample" 
+"# shopExample" 
