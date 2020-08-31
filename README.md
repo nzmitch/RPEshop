@@ -108,3 +108,4 @@ I'll happily merge any pull request to improve the starter. 🙂
 "# notypoShopExample" 
 "# shopExample" 
 "# shopExample" 
+"# shopExample" 
