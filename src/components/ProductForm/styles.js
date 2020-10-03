@@ -10,17 +10,20 @@ export const size = css`
 export const sizeSelect = css`
   width: 4em;
   height: 2em;
-  background-color: #eb478b;
-  border: black solid 1px;
+  background-color: #9a142e;
+  border: transparent solid 1px;
   color: white;
+  margin-bottom: 1em;
 `
 export const buyButton = css`
   width: 10em;
   height: 3em;
-  background-color: #eb478b;
-  border: black solid 1px;
+  background-color: #9a142e;
+  border: transparent solid 1px;
   color: white;
   font-size: 1em;
+  cursor: pointer
+   
 `
 
 

@@ -40,7 +40,7 @@ const Navigation = ({ siteTitle }) => {
 			<Container>
                 
 				<MenuLink style={{}}  to='/'>
-				    <img css={Logo} src={"https://cdn.glitch.com/c995571b-8b75-4810-b967-1fb1b241a7c2%2Fnotypo.png?v=1597991244572"} />
+				    <img css={Logo} src={"https://cdn.glitch.com/b69c105d-ed63-424a-883d-e8bff39866c6%2Fred%20copy.png?v=1601679028313"} />
 				</MenuLink>
                 
                 <Cartcontainer>

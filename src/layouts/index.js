@@ -8,7 +8,6 @@ import ContextProvider from '~/provider/ContextProvider'
 
 import { GlobalStyle } from '~/utils/styles'
 import Navbar from '~/components/Navigation'
-import App from '~/components/Computer'
 import Footer from '~/components/Footer'
 import About from '~/components/About'
 import Services from '~/components/Services'

@@ -3,18 +3,12 @@ import { Link } from 'gatsby'
 import { css } from "@emotion/core"
 
 export const Logo = css`
-  width: 12em;
+  width: 10em;
   margin-right: 3rem;
   margin-left: 3rem;
 `
 
 export const Ul = css`
-   @font-face {
-    font-family: "Alloy";
-    src: url("~/fonts/Alloy.ttf");
-  }
-
-  font-family: 'Alloy';
   listStyle: none;
   float: none;
   display: inline-block;
@@ -31,7 +25,7 @@ export const Cartcontainer = styled.div`
 
 export const Line = styled.div`
   height: 20px;
-  background: #eb478b;
+  background: #9a142e;
   width: 4px;
   margin-right: 0.7rem;
   margin-left: 0.7rem;
@@ -68,7 +62,7 @@ export const CartLink = styled(Link)`
 
 export const CartCounter = styled.span`
   background-color: transparent;
-  color: #eb478b;
+  color: #9a142e;
   border-radius: 20px;
   padding: 0 10px;
   font-size: 1.2rem;

@@ -58,6 +58,7 @@ module.exports = {
         verbose: true,
       },
     },
+      
     {
       resolve: 'gatsby-plugin-root-import',
       options: {
@@ -72,6 +73,16 @@ module.exports = {
         respectDNT: true,
       },
     },
+      
+    {
+     resolve: "gatsby-plugin-web-font-loader",
+     options: {
+     custom: {
+        families: ["All"],
+        urls: ["/static/fonts/fonts.css"],
+    },
+  },
+},
       
     {
       resolve: `gatsby-plugin-google-fonts`,

@@ -20,27 +20,22 @@ export const GlobalStyle = props => (
       body {
         margin: 0;
         background: white;
-        background-image: linear-gradient(90deg, rgba(0,0,0,.1) 1px,transparent 0);
-        background-size: 12vw 12vw;
         overflow-x: hidden;
-        box-sizing: border-box;
-        height: 100%;
-        text-rendering: optimizeLegibility;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        -webkit-tap-highlight-color: rgba(0,0,0,0);
+        color: black;
+                
       }
       html {
-        
-        font-family: Alloy;
+        @font-face {
+            font-family: "All";
+            src: url("/fonts/Alloy.ttf");
+        }
+         font-family: All;
         -ms-text-size-adjust: 100%;
         -webkit-text-size-adjust: 100%;
       }
     `}
   />
 )
-
-
 
 
 export const Img = styled(Image)`
