@@ -6,8 +6,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `TEST SHOP`,
-    description: `TEST SHOP`,
+    title: `RPE`,
+    description: `RPE`,
     author: `@notypo_`,
   },
   plugins: [
