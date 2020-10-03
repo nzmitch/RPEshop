@@ -67,13 +67,13 @@ Current video camera is a Panasonic HCV180 which shoots at 1080p 60fps. We are l
       <h2>I became sick/injured/couldn’t compete, can I get a refund?</h2>
     </div>
     <div css={textContainer}>
-      <p>Yes, of course! Please email rpendurance@gmail.com to arrange a full refund.</p>
+      <p>Yes, of course! Please email rpendurance.nz@gmail.com to arrange a full refund.</p>
     </div>
     <div css={textContainer}>
       <h2>I changed my mind, can I get a refund?</h2>
     </div>
     <div css={textContainer}>
-      <p>If you change your mind up to 12hrs before you’re due to compete, then yes, please email rpendurance@gmail.com to arrange a full refund. Change of mind right before you’re due to compete and you’ll be eligible for a partial 50% refund due to labour and administration overheads. If there are any issues please email rpendurance@gmail.com.</p>
+      <p>If you change your mind up to 12hrs before you’re due to compete, then yes, please email rpendurance.nz@gmail.com to arrange a full refund. Change of mind right before you’re due to compete and you’ll be eligible for a partial 50% refund due to labour and administration overheads. If there are any issues please email rpendurance@gmail.com.</p>
     </div>
     <div css={textContainer}>
       <h2>Where Will My Money Go?</h2>
