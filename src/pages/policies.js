@@ -49,7 +49,7 @@ Current video camera is a Panasonic HCV180 which shoots at 1080p 60fps. We are l
       <h2>What will I get in my package?</h2>
     </div>
     <div css={textContainer}>
-      <p>There are two video packages available. You can choose to receive your three best lifts in the “3 Lift” package or all of your attempts in the “9 Lift” package. For the three lift package, you dictate which lifts you would like to receive - please email us at rpendurance@gmail.com with your preferences after the competition. The videos will be sent as one folder with seperate files for each lift. Videos will include your walk on and set up. No fancy angles, watermarks or camera tricks, just your lifts to do as you please with. Great footage for analysis! Feel free to post them on your socials and to tag us too @rpendurance</p>
+      <p>There are two video packages available. You can choose to receive your three best lifts in the “3 Lift” package or all of your attempts in the “9 Lift” package. For the three lift package, you dictate which lifts you would like to receive - please email us at rpendurance@gmail.com with your preferences after the competition. The videos will be sent as one folder with seperate files for each lift. Videos will include your walk on and set up. No fancy angles, watermarks or camera tricks, just your lifts to do as you please with. Great footage for analysis! Feel free to post them on your socials and to tag us too @rpendurance</p>
     </div>
     <div css={textContainer}>
       <h2>How Will I Receive My Files?</h2>
